@@ -1,13 +1,25 @@
 /* estilo geral da pagina */
 body {
     background-color: lightgray;
-    font-family: arial;   /* font pesquisei */
+    font-family: arial;
     color: black;
 }
 
+/* cabecalho */
+header {
+    background-color: blue;
+    color: white;
+}
+
 /* titulo principal */
-h1 {
-    color: blue;
+#titulo-principal {
+    color: white;
+}
+
+/* banner */
+#banner {
+    background-color: blue;
+    color: white;
 }
 
 /* subtitulos */
@@ -15,7 +27,7 @@ h2 {
     color: blue;
 }
 
-/* titulos menores */
+/* titulos dos cursos */
 h3 {
     color: black;
 }
@@ -25,17 +37,22 @@ p {
     color: black;
 }
 
-/* id do titulo principal */
-#titulo-principal {
-    color: blue;
-}
-
-/* classe para texto de descricao */
+/* descricao */
 .descricao {
     color: green;
 }
 
 /* links */
 a {
-    color: blue;
+    color: white;
+}
+
+/* rodape */
+footer {
+    background-color: blue;
+    color: white;
+}
+
+footer p {
+    color: white;
 }

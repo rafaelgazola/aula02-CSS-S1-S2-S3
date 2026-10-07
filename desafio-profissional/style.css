@@ -1,0 +1,41 @@
+/* estilo geral da pagina */
+body {
+    background-color: lightgray;
+    font-family: arial;   /* font pesquisei */
+    color: black;
+}
+
+/* titulo principal */
+h1 {
+    color: blue;
+}
+
+/* subtitulos */
+h2 {
+    color: blue;
+}
+
+/* titulos menores */
+h3 {
+    color: black;
+}
+
+/* paragrafos */
+p {
+    color: black;
+}
+
+/* id do titulo principal */
+#titulo-principal {
+    color: blue;
+}
+
+/* classe para texto de descricao */
+.descricao {
+    color: green;
+}
+
+/* links */
+a {
+    color: blue;
+}
